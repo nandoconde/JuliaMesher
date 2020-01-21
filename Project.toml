@@ -1,0 +1,4 @@
+name = "JuliaMesher"
+uuid = "01b698fb-90e1-4aa2-ad1b-b4f2bac18789"
+authors = ["nandoconde <fernando.conde-pumpido.velasco@alumnos.upm.es>"]
+version = "0.1.0"
